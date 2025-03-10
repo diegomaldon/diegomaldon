@@ -17,9 +17,6 @@ I'm a Computer Science student at Syracuse University passionate about building 
 - **Vice President, Community Service Chair | Phi Iota Alpha, Fraternity Inc.**  
   April 2024 - Present  
   Led collaborations with 15+ Greek organizations to host impactful events fostering campus and community engagement.
-
-- **Community Service Director | National Association of Latino Fraternal Organizations**  
-  April 2024 - Present  
   Coordinated multiple events uniting 10+ organizations, engaging hundreds of undergraduates and community members.
 
 
