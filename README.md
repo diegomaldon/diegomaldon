@@ -45,7 +45,7 @@ I'm a Computer Science student at Syracuse University on a joint track for an MB
 
 - **LinkedIn** — [diego-maldonadot](https://www.linkedin.com/in/diego-maldonadot)
 - **Email** — [dimaldon@syr.edu](mailto:dimaldon@syr.edu)
-- **Portfolio** - [Link Here](https://diegomaldon.github.io/Personal-Web-Application/)
+- **Portfolio** — [Link Here](https://diegomaldon.github.io/Personal-Web-Application/)
 
 ---
 
