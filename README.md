@@ -19,9 +19,9 @@ I'm a Computer Science student at Syracuse University on a joint track for an MB
 
 ## 🚀 Featured Work
 
-🏆 **CareerWise** — _Code for Good 2025 winning project at JPMorgan Chase._ Data visualization dashboard built in 36 hours for CareerRise, a nonprofit working on economic mobility. Stack: React, TypeScript, Tailwind, FastAPI, Supabase, Mapbox, Recharts, Google Cloud Functions.
+🏆 **[CareerWise](https://github.com/cfgcolumbus25/Team-20)** — _Code for Good 2025 winning project at JPMorgan Chase._ Data visualization dashboard built in 36 hours for CareerRise, a nonprofit working on economic mobility. Stack: React, TypeScript, Tailwind, FastAPI, Supabase, Mapbox, Recharts, Google Cloud Functions.
 
-🔒 **SafeInity** — _Patent-pending wearable safety device co-invented through Invent@SU._ Software Lead and Co-Inventor: Firebase Functions and Firestore on the backend, embedded C++ firmware on ESP32 with a Nordic nRF9160 cellular modem.
+🔒 **[SafeInity](https://github.com/diegomaldon/Safeinity)** — _Patent-pending wearable safety device co-invented through Invent@SU._ Software Lead and Co-Inventor: Firebase Functions and Firestore on the backend, embedded C++ firmware on ESP32 with a Nordic nRF9160 cellular modem.
 
 🌿 **CannaBuddy** — _Honors thesis (in progress)._ A hybrid retrieval-augmented generation system for research-backed cannabis product recommendations, combining semantic retrieval, structured metadata filtering, and rule-based safety constraints to keep an LLM honest in a domain where reliability matters.
 
@@ -45,6 +45,7 @@ I'm a Computer Science student at Syracuse University on a joint track for an MB
 
 - **LinkedIn** — [diego-maldonadot](https://www.linkedin.com/in/diego-maldonadot)
 - **Email** — [dimaldon@syr.edu](mailto:dimaldon@syr.edu)
+- **Portfolio** - [Link Here](https://diegomaldon.github.io/Personal-Web-Application/)
 
 ---
 
