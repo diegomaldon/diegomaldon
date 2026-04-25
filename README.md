@@ -43,7 +43,7 @@ I'm a Computer Science student at Syracuse University on a joint track for an MB
 
 ## 📫 Let's Connect
 
-- **LinkedIn** — [diego-maldonado-7aa93527a](https://www.linkedin.com/in/diego-maldonadot)
+- **LinkedIn** — [diego-maldonadot](https://www.linkedin.com/in/diego-maldonadot)
 - **Email** — [dimaldon@syr.edu](mailto:dimaldon@syr.edu)
 
 ---
